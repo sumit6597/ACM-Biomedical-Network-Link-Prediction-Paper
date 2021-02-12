@@ -1,4 +1,4 @@
-# ACM-Biomedical-Network-Link-Prediction-Paper
+# ACM-Biomedical Network Link Prediction using Neural Network Graph Embedding-Paper
 
 # Citations
 
