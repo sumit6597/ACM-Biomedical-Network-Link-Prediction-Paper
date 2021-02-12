@@ -1,4 +1,4 @@
-# ACM--Paper
+# ACM IKDD 6th CODS and 26th COMAD 2021
 
 This is the repository documenting the paper
 [Biomedical Network Link Prediction using Neural Network Graph Embedding](https://dl.acm.org/doi/abs/10.1145/3430984.3431053)
