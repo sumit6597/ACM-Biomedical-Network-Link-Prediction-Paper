@@ -4,7 +4,7 @@ This is the repository documenting the paper
 [Biomedical Network Link Prediction using Neural Network Graph Embedding](https://dl.acm.org/doi/abs/10.1145/3430984.3431053)
 
 # Citations
-*If you find it useful, please cite our paper:
+If you find it useful, please cite our paper:
 
 ```
 @inproceedings{10.1145/3430984.3431053,
